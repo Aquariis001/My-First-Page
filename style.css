@@ -85,7 +85,6 @@ body * {
 
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
-  -webkit-backdrop-filter-: blur(8px);
 }
 
 #switch span {
